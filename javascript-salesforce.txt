@@ -1,0 +1,28 @@
+var alotina= 20;
+var mensah=null;
+mensah =alotina +18;
+mensah = mensah -7;
+mensah = mensah *3;
+mensah = mensah+12'
+alett(alotina);
+alert(mensah);
+
+add(2,3);
+stationery(pencil,eraser);
+groceries(egg,oil,sugar);
+
+function add (){
+alert('hi dear');
+}
+
+function stationaery(name1,name2){
+    alert ('name');
+
+}
+task3Element.addEventListener('click',add);
+
+function groceries(item1,item2.item3){
+    combinedText= ' ' + item1 + ' '+ item2+' '+item3;
+    return combinedText;
+alert('item1' +'and' + 'item2' + 'are available')
+}
